@@ -1,0 +1,9 @@
+body {
+    background-color: #528efcd8;
+}
+
+.start-btn {
+    border-radius: 2em;
+    width: 7% !important;
+    border: none;
+}
